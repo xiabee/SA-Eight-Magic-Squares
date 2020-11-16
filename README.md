@@ -13,28 +13,9 @@
 ```
 .
 ├── Images
-│   ├── 00001.pgm
-│   ├── 00002.pgm
-│   ├── 00003.pgm
-│   ├── 00004.pgm
-│   ├── 00005.pgm
-│   ├── 00006.pgm
-│   ├── 00007.pgm
-│   ├── 00008.pgm
-│   ├── 00009.pgm
-│   ├── 00010.pgm
-│   ├── 00011.pgm
-│   ├── 00012.pgm
-│   ├── 00013.pgm
-│   ├── 00014.pgm
-│   ├── 00015.pgm
-│   ├── 00016.pgm
-│   └── ...
 ├── out.cpp
-├── out.exe
-└── README.md
-
-1 directory, 20 files
+├── README.md
+└── result.jpg
 ```
 
 * 代码文件：`out.cpp`
